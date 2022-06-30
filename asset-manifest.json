@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://van-long.github.io/csb-ulwkuj/static/js/main.0ec4620d.chunk.js",
+    "main.js.map": "https://van-long.github.io/csb-ulwkuj/static/js/main.0ec4620d.chunk.js.map",
+    "runtime-main.js": "https://van-long.github.io/csb-ulwkuj/static/js/runtime-main.499fef21.js",
+    "runtime-main.js.map": "https://van-long.github.io/csb-ulwkuj/static/js/runtime-main.499fef21.js.map",
+    "static/js/2.6b59488d.chunk.js": "https://van-long.github.io/csb-ulwkuj/static/js/2.6b59488d.chunk.js",
+    "static/js/2.6b59488d.chunk.js.map": "https://van-long.github.io/csb-ulwkuj/static/js/2.6b59488d.chunk.js.map",
+    "static/js/3.e9d9b0d3.chunk.js": "https://van-long.github.io/csb-ulwkuj/static/js/3.e9d9b0d3.chunk.js",
+    "static/js/3.e9d9b0d3.chunk.js.map": "https://van-long.github.io/csb-ulwkuj/static/js/3.e9d9b0d3.chunk.js.map",
+    "static/js/4.d4fd38f0.chunk.js": "https://van-long.github.io/csb-ulwkuj/static/js/4.d4fd38f0.chunk.js",
+    "static/js/4.d4fd38f0.chunk.js.map": "https://van-long.github.io/csb-ulwkuj/static/js/4.d4fd38f0.chunk.js.map",
+    "index.html": "https://van-long.github.io/csb-ulwkuj/index.html",
+    "static/js/2.6b59488d.chunk.js.LICENSE.txt": "https://van-long.github.io/csb-ulwkuj/static/js/2.6b59488d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.499fef21.js",
+    "static/js/2.6b59488d.chunk.js",
+    "static/js/main.0ec4620d.chunk.js"
+  ]
+}
